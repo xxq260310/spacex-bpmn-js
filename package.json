@@ -1,5 +1,5 @@
 {
-  "name": "@yunjia/spacex-bpmn",
+  "name": "@xuxiaoqin/spacex-bpmn",
   "version": "1.0.0",
   "description": "A bpmn 2.0 toolkit and web modeler",
   "scripts": {
