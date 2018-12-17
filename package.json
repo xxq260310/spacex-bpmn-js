@@ -8,8 +8,8 @@
     "dev": "npm test -- --auto-watch --no-single-run",
     "test": "karma start test/config/karma.unit.js",
     "distro": "node tasks/build-distro.js",
-    "test:distro": "node tasks/test-distro.js"
-    // "prepublishOnly": "run-s distro test:distro"
+    "test:distro": "node tasks/test-distro.js",
+    "prepublishOnly": "run-s distro test:distro"
   },
   "repository": {
     "type": "git",
